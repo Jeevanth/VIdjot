@@ -1,2 +1,2 @@
 # VIdjot
-a website to dtore text  data
+a website to store text  data
